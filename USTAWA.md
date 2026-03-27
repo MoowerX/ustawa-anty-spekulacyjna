@@ -57,9 +57,11 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
 
 ### Art. 2. [zmiana ustawy o księgach wieczystych i hipotece]
 
-W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2025 r. poz. 341, 1669, 1792 i 1793) w art. 36⁴ po ust. 16 dodaje się ust. 16a w brzmieniu:
+W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2025 r. poz. 341, 1669, 1792 i 1793) w art. 36⁴ po ust. 16 dodaje się ust. 16a i 16b w brzmieniu:
 
-„16a. Centralna Informacja umożliwia organom podatkowym właściwym dla ustalania podatku od nieruchomości, w celu ustalenia stawki wymiaru podatku od budynków mieszkalnych jednorodzinnych albo lokali mieszkalnych, bezpłatne pozyskiwanie, za pośrednictwem systemu teleinformatycznego, danych zawartych w dziale pierwszym, drugim i trzecim ksiąg wieczystych, bez prawa udostępniania osobom trzecim.".
+„16a. Centralna Informacja umożliwia organom podatkowym właściwym dla ustalania podatku od nieruchomości, w celu ustalenia stawki wymiaru podatku od budynków mieszkalnych jednorodzinnych albo lokali mieszkalnych, bezpłatne pozyskiwanie, za pośrednictwem systemu teleinformatycznego, danych zawartych w dziale pierwszym, drugim i trzecim ksiąg wieczystych, bez prawa udostępniania osobom trzecim.
+16b. Udostępnianie danych, o których mowa w ust. 16a, następuje z wykorzystaniem zintegrowanego interfejsu programistycznego (API), który obligatoryjnie i w czasie rzeczywistym krzyżuje dane o własności z Centralnym Rejestrem Beneficjentów Rzeczywistych. Rozwiązanie to ma na celu zautomatyzowaną agregację posiadanych nieruchomości na poziomie beneficjenta rzeczywistego, zgodnie z art. 5a ust. 2 ustawy o podatkach i opłatach lokalnych."
+
 
 ### Art. 3. [zmiana Prawa geodezyjnego i kartograficznego]
 
@@ -86,7 +88,7 @@ W ustawie z dnia 17 października 2025 r. o zmianie ustawy o ochronie praw nabyw
 
 ### Art. 5. [obowiązek wskazania nieruchomości]
 
-Osoby fizyczne, które przed dniem wejścia w życie niniejszej ustawy, były podatnikami podatku od nieruchomości, którego przedmiotem opodatkowania były więcej niż dwa budynki mieszkalne jednorodzinne lub lokale mieszkalne wskazują, w terminie do 31 stycznia 2027 r., właściwemu organowi podatkowemu budynki mieszkalne jednorodzinne lub lokale mieszkalne, w celu ustalenia nieruchomości podlegających stawce opodatkowania określonej w art. 5a ust. 1 pkt 2 ustawy zmienianej w art. 1.
+Wszyscy podatnicy podatku od nieruchomości (osoby fizyczne, osoby prawne oraz jednostki organizacyjne nieposiadające osobowości prawnej) posiadający na terytorium Rzeczypospolitej Polskiej więcej niż dwa lokale mieszkalne lub budynki mieszkalne jednorodzinne, obowiązani są złożyć właściwym organom podatkowym szczegółową deklarację uwzględniającą strukturę właścicielską oraz wskazanie beneficjentów rzeczywistych w terminie do 31 stycznia 2027 r.
 
 ### Art. 6. [przepisy przejściowe dotyczące deklaracji na 2027 r.]
 
